@@ -1,0 +1,20 @@
+[
+  {
+    "city": "İstanbul",
+    "fuelType": "Benzin",
+    "price": "41,72 ₺",
+    "updatedAt": "2026-02-03 09:00"
+  },
+  {
+    "city": "Ankara",
+    "fuelType": "Motorin",
+    "price": "43,10 ₺",
+    "updatedAt": "2026-02-03 09:00"
+  },
+  {
+    "city": "İzmir",
+    "fuelType": "LPG",
+    "price": "22,85 ₺",
+    "updatedAt": "2026-02-03 09:00"
+  }
+]
